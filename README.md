@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Harsh
 
-<!--
-**harshypoo/harshypoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS & AI student at the University of Arizona, with a minor in Biosystems Engineering.
+Building toward ML engineering in healthcare.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Learning full-stack web development (FastAPI + PostgreSQL)
+- Solving LeetCode problems daily to prep for technical interviews
+- Building projects at the intersection of software and healthcare
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Python · SQL · Git · FastAPI (learning) · HTML/CSS
+
+## Links
+[LinkedIn](https://www.linkedin.com/in/realharshpatel/) · [Email](mailto:harshspatel@arizona.edu)
